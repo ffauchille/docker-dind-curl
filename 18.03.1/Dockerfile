@@ -4,4 +4,3 @@ LABEL maintainer "Florent Fauchille <florentfauchille@gmail.com>"
 RUN apk add --no-cache \
                    curl
 
-RUN curl https://google.com
